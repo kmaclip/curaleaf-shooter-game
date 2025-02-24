@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curaleaf Dungeon Crawler</title>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.85.0/dist/phaser.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #000000;
+            overflow: hidden;
+        }
+        #phaser-game {
+            width: 960px; /* Updated to match 20 tiles * 48px */
+            height: 600px; /* Reverted to original height, 12 tiles * 48px */
+        }
+    </style>
+</head>
+<body>
+    <div id="phaser-game"></div>
+    <script type="module">
+        import { startGame } from './src/game.js';
+        startGame();
+    </script>
+</body>
+</html>
