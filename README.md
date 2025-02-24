@@ -6,32 +6,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Game Overview](#game-overview)
-2. [Features](#features)
-3. [File Structure](#file-structure)
-4. [Game Mechanics](#game-mechanics)
-   - [Player Movement](#player-movement)
-   - [Combat](#combat)
-   - [Rooms and Navigation](#rooms-and-navigation)
-   - [Power-Ups](#power-ups)
-   - [Enemies](#enemies)
-   - [Boss: Trulieve Swarm](#boss-trulieve-swarm)
-5. [Installation](#installation)
-6. [How to Play](#how-to-play)
-7. [Development](#development)
-   - [Prerequisites](#prerequisites)
-   - [Running Locally](#running-locally)
-   - [Building for Production](#building-for-production)
-8. [Contributing](#contributing)
-9. [Known Issues](#known-issues)
-10. [Future Enhancements](#future-enhancements)
-11. [License](#license)
-12. [Acknowledgements](#acknowledgements)
-
----
-
 ## Game Overview
 
 In **Curaleaf Shooter**, you play as a Curaleaf agent exploring a grid-based dungeon teeming with rival cannabis brand enemies like AYR, Fluent, and Cookies. Your goal is to survive, rack up points, and progress by defeating enemies and collecting items. Every 10th room, you’ll face the formidable Trulieve Swarm boss, a challenging encounter with swarm mechanics and projectiles.
